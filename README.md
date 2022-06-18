@@ -1,6 +1,6 @@
 [![MasterHead](https://ajmendez.github.io/assets/helloworld_finished.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nirmal </h1>
-<h4 align="center"> & </h4>
+<h4 align="center"> Or </h4>
 <h2 align="center">You can call me Neo </h2>
 <h2 align="center">A newbie programmer 🧑‍💻  </h2>
 
