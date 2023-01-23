@@ -1,4 +1,5 @@
-![logo](https://github.com/iam-neo/iam-neo/blob/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner.png)
+[![MasterHead](https://github.com/iam-neo/iam-neo/blob/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Nirmal</h1>
 <h3 align="center">A newbie coder/programmer 😂</h3>
 
