@@ -23,7 +23,7 @@
   <!-- Instagram -->
 <a href="https://instagram.com/ni.nirmal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ni.nirmal/" height="30" width="40" /></a>
   <!-- youtube -->
-  <a href="https://www.youtube.com/c/neogallery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="neogallery" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@neogallery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="neogallery" height="30" width="40" /></a>
 
 </p>
 
