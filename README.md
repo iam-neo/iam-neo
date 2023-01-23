@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/iam-neo/iam-neo/blob/main/helloworld_finished.png)]
+[![MasterHead](https://github.com/iam-neo/iam-neo/blob/main/new%20design.png)]
 <h1 align="center">Hi 👋, I'm Nirmal</h1>
 <h3 align="center">A newbie coder/programmer 😂</h3>
 
