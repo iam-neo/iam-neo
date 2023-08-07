@@ -19,8 +19,7 @@ facebook: nirmalr.com.np
 instagram: ni.nirmal
 ```
 <hr>
-
-<hr>
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <!-- twitter -->
