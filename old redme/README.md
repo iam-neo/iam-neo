@@ -1,39 +1,34 @@
-<hr>
-<img align="left" alt="Coding" width="350" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" data-canonical-src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
+[![MasterHead](https://ajmendez.github.io/assets/helloworld_finished.png)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Nirmal</h1>
+<h3 align="center">A newbie coder/programmer 😂</h3>
+
+<img align="right" alt="Coding" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" data-canonical-src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-neo&label=Profile%20views&color=0e75b6&style=flat" alt="iam-neo" /> </p>
 
-```yaml
-nirmalrkamagar54@gmail.com
-———————————
-name: Nirmal Rokamagar
-pronouns: he/him/his
-hobbies: coding, writing, music, martial-arts, 
-interests: Explore Experiment and Implement
-learning: SEO
-quote: Code is like humor. When you have to explain it, it’s bad.
-———————————
-mail: nirmalrokamagar54@gmail.com
-twitter: neo_imneo
-facebook: nirmalr.com.np
-instagram: ni.nirmal
-```
-<hr>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+- 🔭 I’m currently working on [Bloging website](https://www.nirmalr.com.np/)
+
+- 🌱 I’m currently learning **SEO**
+
+- 📫 How to reach me **nirmalrokamagar54@gmail.com**
+
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
   <!-- twitter -->
 <a href="https://twitter.com/@neo_imneo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neo_imneo" height="30" width="40" /></a>
   <!-- linkedin -->
-<a href="https://www.linkedin.com/in/nirmal-mgr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmal-roka-magar-132428181/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nirmal-roka-magar-132428181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmal-roka-magar-132428181/" height="30" width="40" /></a>
   <!-- Instagram -->
 <a href="https://instagram.com/ni.nirmal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ni.nirmal/" height="30" width="40" /></a>
   <!-- youtube -->
   <a href="https://www.youtube.com/@neogallery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="neogallery" height="30" width="40" /></a>
-</p>
-<hr>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <!-- c-programming -->
@@ -67,6 +62,10 @@ instagram: ni.nirmal
   </a>
 
 </p>
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=iam-neo&theme=radical&hide_border=false&include_all_commits=false&count_private=false) <space>
