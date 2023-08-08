@@ -1,0 +1,40 @@
+name: Update Quote
+on:
+  schedule:
+      - cron: "0 0 * * *"
+jobs:
+  update_quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up the time zone
+        run: |
+          sudo ln -sf /usr/share/zoneinfo/$TIME_ZONE /etc/localtime
+          echo $TIME_ZONE | sudo tee /etc/timezone
+          date
+
+      - name: Configure Git
+        run: |
+          git init
+          git config --global user.email "stutiupreti12@gmail.com"
+          git config --global user.name "thestuti"
+
+      - name: Check out repository
+        uses: actions/checkout@v2
+        with:
+          repository: thestuti/thestuti
+
+      - name: Run script
+        run: |
+          chmod +x quote.sh
+          ./quote.sh
+
+      - name: Check README.md status
+        run: |
+          git status README.md
+
+      - name: Commit and push changes
+        run: |
+             git pull origin main
+             chmod +x quote.sh
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
