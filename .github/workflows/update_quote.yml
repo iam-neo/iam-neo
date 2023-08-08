@@ -15,13 +15,13 @@ jobs:
       - name: Configure Git
         run: |
           git init
-          git config --global user.email "stutiupreti12@gmail.com"
-          git config --global user.name "thestuti"
+          git config --global user.email "nirmalrokamagar54@gmail.com"
+          git config --global user.name "iam-neo"
 
       - name: Check out repository
         uses: actions/checkout@v2
         with:
-          repository: thestuti/thestuti
+          repository: iam-neo/iam-neo
 
       - name: Run script
         run: |
