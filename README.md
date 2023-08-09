@@ -9,7 +9,7 @@ pronouns: he/him/his
 hobbies: coding, writing, music, martial-arts, 
 interests: Explore Experiment and Implement
 learning: SEO
-quote: Code is like humor. When you have to explain it, it’s bad.
+quote: Believe you can, and you're halfway there.
 ———————————
 mail: nirmalrokamagar54@gmail.com
 twitter: neo_imneo
