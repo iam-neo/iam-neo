@@ -9,7 +9,7 @@ pronouns: he/him/his
 hobbies: coding, writing, music, martial-arts, 
 interests: Explore Experiment and Implement
 learning: SEO
-quote: In the end, we will remember not the words of our enemies, but the silence of our friends.
+quote: Life is what happens when you're busy making other plans.
 ———————————
 mail: nirmalrokamagar54@gmail.com
 twitter: neo_imneo
