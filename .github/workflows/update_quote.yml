@@ -1,9 +1,9 @@
-name: Update Quote
+name: Update Quote and Poem
 on:
   schedule:
-      - cron: "0 0 * * *"
+    - cron: "0 0 * * *"
 jobs:
-  update_quote:
+  update_quote_and_poem:
     runs-on: ubuntu-latest
     steps:
       - name: Set up the time zone
@@ -25,8 +25,8 @@ jobs:
 
       - name: Run script
         run: |
-          chmod +x quote.sh
-          ./quote.sh
+          chmod +x quote_and_poem.sh
+          ./quote_and_poem.sh
 
       - name: Check README.md status
         run: |
@@ -34,7 +34,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-             git pull origin main
-             chmod +x quote.sh
+          git pull origin main
+          chmod +x quote_and_poem.sh
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
