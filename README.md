@@ -9,8 +9,8 @@ pronouns: he/him/his
 hobbies: coding, writing, music, martial-arts, 
 interests: Explore Experiment and Implement
 learning: SEO
-quote: We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.
-poem: The woods are lovely, dark and deep, But I have promises to keep, And miles to go before I sleep.
+quote: Code is like humor. When you have to explain it, it’s bad.
+poem: Two roads diverged in a wood, and I— I took the one less traveled by, And that has made all the difference.
 ———————————
 mail: nirmalrokamagar54@gmail.com
 twitter: neo_imneo
