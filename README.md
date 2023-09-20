@@ -9,8 +9,8 @@ pronouns: he/him/his
 hobbies: coding, writing, music, martial-arts, 
 interests: Explore Experiment and Implement
 learning: SEO
-quote: Believe you can, and you're halfway there.
-poem: I wandered lonely as a cloud That floats on high o'er vales and hills...
+quote: We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.
+poem: The woods are lovely, dark and deep, But I have promises to keep, And miles to go before I sleep.
 ———————————
 mail: nirmalrokamagar54@gmail.com
 twitter: neo_imneo
@@ -70,5 +70,4 @@ instagram: ni.nirmal
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=iam-neo&theme=radical&hide_border=false&include_all_commits=false&count_private=false) <space>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iam-neo&theme=radical&hide_border=false)<br/> 
-![](https://github-readme-streak-stats.herokuapp.com/?user=iam-neo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-neo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
