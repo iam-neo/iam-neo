@@ -9,8 +9,8 @@ pronouns: he/him/his
 hobbies: coding, writing, music, martial-arts, 
 interests: Explore Experiment and Implement
 learning: SEO
-quote: Believe you can, and you're halfway there.
-poem: I wandered lonely as a cloud That floats on high o'er vales and hills...
+quote: In the end, we will remember not the words of our enemies, but the silence of our friends.
+poem: How do I love thee? Let me count the ways...
 ———————————
 mail: nirmalrokamagar54@gmail.com
 twitter: neo_imneo
