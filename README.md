@@ -9,8 +9,8 @@ pronouns: he/him/his
 hobbies: coding, writing, music, martial-arts, 
 interests: Explore Experiment and Implement
 learning: SEO
-quote: Code is like humor. When you have to explain it, it’s bad.
-poem: Two roads diverged in a wood, and I— I took the one less traveled by, And that has made all the difference.
+quote: The only limit to our realization of tomorrow will be our doubts of today.
+poem: O Captain! my Captain! our fearful trip is done...
 ———————————
 mail: nirmalrokamagar54@gmail.com
 twitter: neo_imneo
