@@ -9,8 +9,8 @@ pronouns: he/him/his
 hobbies: coding, writing, music, martial-arts, 
 interests: Explore Experiment and Implement
 learning: SEO
-quote: The only limit to our realization of tomorrow will be our doubts of today.
-poem: O Captain! my Captain! our fearful trip is done...
+quote: Be yourself; everyone else is already taken.
+poem: Do not go gentle into that good night, Old age should burn and rave at close of day; Rage, rage against the dying of the light.
 ———————————
 mail: nirmalrokamagar54@gmail.com
 twitter: neo_imneo
