@@ -1,5 +1,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iam-neo&label=Profile%20views&color=0e75b6&style=flat" alt="iam-neo" /> </p>
+<img src="https://raw.githubusercontent.com/iam-neo/iam-neo/output/snake.svg" alt="Snake animation" />
+###
 <hr>
 <img align="left" alt="Coding" width="300" src="https://lh3.googleusercontent.com/a/AAcHTtcwFXC80e6WPgrSkI0joojeY0QW3jECileBm78t0F5gNTw=s360-c-no" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
 
