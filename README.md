@@ -1,6 +1,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iam-neo&label=Profile%20views&color=0e75b6&style=flat" alt="iam-neo" /> </p>
-![Snake animation](.github/workflows/snake.yml?raw=true "Snake animation")
+<img src="https://raw.githubusercontent.com/iam-neo/iam-neo/output/snake.svg" alt="Snake animation" />
 
 ###
 <hr>
