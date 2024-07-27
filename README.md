@@ -12,8 +12,8 @@ pronouns: he/him/his
 hobbies: coding, writing, music, martial-arts, 
 interests: Explore Experiment and Implement
 learning: SEO
-quote: Life is what happens when you're busy making other plans.
-poem: Hope is the thing with feathers That perches in the soul...Not marble nor the gilded monuments Of princes shall outlive this powerful rhyme...
+quote: The journey of a thousand miles begins with a single step.
+poem: Not marble nor the gilded monuments Of princes shall outlive this powerful rhyme...
 ———————————
 mail: nirmalrokamagar54@gmail.com
 twitter: neo_imneo
