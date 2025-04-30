@@ -12,8 +12,8 @@ pronouns: he/him/his
 hobbies: coding, writing, music, martial-arts, 
 interests: Explore Experiment and Implement
 learning: SEO
-quote: Be yourself; everyone else is already taken.
-poem: Do not go gentle into that good night, Old age should burn and rave at close of day; Rage, rage against the dying of the light.
+quote: Believe you can, and you're halfway there.
+poem: I wandered lonely as a cloud That floats on high o'er vales and hills...
 ———————————
 mail: nirmalrokamagar54@gmail.com
 twitter: neo_imneo
