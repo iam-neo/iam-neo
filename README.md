@@ -83,8 +83,7 @@ instagram: ni.nirmal
 
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iam-neo&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iam-neo&theme=2077" height="180em" />
-</div>
+
 
 
 <h2 align="left">⚡Activity Graph:</h2>
