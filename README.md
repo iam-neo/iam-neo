@@ -82,7 +82,6 @@ instagram: ni.nirmal
 <div align="center">
 
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iam-neo&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iam-neo&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iam-neo&theme=2077" height="180em" />
 </div>
