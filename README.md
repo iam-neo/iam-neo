@@ -12,8 +12,8 @@ pronouns: he/him/his
 hobbies: coding, writing, music, martial-arts, 
 interests: Explore Experiment and Implement
 learning: SEO
-quote: The journey of a thousand miles begins with a single step.
-poem: Not marble nor the gilded monuments Of princes shall outlive this powerful rhyme...
+quote: Code is like humor. When you have to explain it, it’s bad.
+poem: Two roads diverged in a wood, and I— I took the one less traveled by, And that has made all the difference.
 ———————————
 mail: nirmalrokamagar54@gmail.com
 twitter: neo_imneo
