@@ -66,6 +66,10 @@
   <br>**Tools**<br>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
   
 </div>
 
@@ -73,13 +77,15 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iam-neo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="iam-neo's github stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-neo&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="150" />
 </div>
-<br>
+<br> -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-neo&theme=radical&hide_border=true" alt="Streak Stats" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iam-neo&theme=radical" alt="Productive Time" />
 </div>
 
 <br>
