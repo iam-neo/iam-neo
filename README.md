@@ -1,90 +1,113 @@
+<!-- <div align="center">
+  <img src="./my_banner.png" alt="Banner" width="100%" />
+</div> -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iam-neo&label=Profile%20views&color=0e75b6&style=flat" alt="iam-neo" /> </p>
-<img src="https://raw.githubusercontent.com/iam-neo/iam-neo/output/snake.svg" alt="Snake animation" />
+<h1 align="center">Hi there, I'm Nirmal! 👋</h1>
 
-###
-<hr>
-<img align="left" alt="Coding" width="300" src="https://lh3.googleusercontent.com/a/AAcHTtcwFXC80e6WPgrSkI0joojeY0QW3jECileBm78t0F5gNTw=s360-c-no" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
-
-```yaml
-name: Nirmal Rokamagar
-pronouns: he/him/his
-hobbies: coding, writing, music, martial-arts, 
-interests: Explore Experiment and Implement
-learning: SEO
-quote: The only limit to our realization of tomorrow will be our doubts of today.
-poem: O Captain! my Captain! our fearful trip is done...
-———————————
-mail: nirmalrokamagar54@gmail.com
-twitter: neo_imneo
-facebook: nirmalr.com.np
-instagram: ni.nirmal
-```
-<hr>
-<h3 align="left">Connect with me:</h3>
 <p align="center">
-  <!-- twitter -->
-<a href="https://twitter.com/@neo_imneo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neo_imneo" height="30" width="40" /></a>
-  <!-- linkedin -->
-<a href="https://www.linkedin.com/in/nirmal-mgr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmal-roka-magar-132428181/" height="30" width="40" /></a>
-  <!-- Instagram -->
-<a href="https://instagram.com/ni.nirmal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ni.nirmal/" height="30" width="40" /></a>
-  <!-- youtube -->
-  <a href="https://www.youtube.com/@neogallery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="neogallery" height="30" width="40" /></a>
-</p>
-<hr>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <!-- c-programming -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <!-- django -->
-  </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <!-- Laravel -->
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-  <!-- mysql -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <!-- Nodejs -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <!-- Photosop -->
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <!-- PHP -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <!-- ReactJs -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <!-- Vs code icon -->
-    <a href="https://code.visualstudio.com/" rel="vs-code"> <img src="https://camo.githubusercontent.com/13a4ffd69c3eee667515dbcc013b03158b43353978ae5c90c04b4ba87a839dcd/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130372f504e472f3531322f66696c655f747970655f7673636f64655f69636f6e5f3133303038342e706e67" alt="vs-code" width="40" height="40" data-canonical-src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" style="max-width: 100%;">
-  </a>
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" /></a>
 </p>
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=iam-neo&theme=radical&hide_border=false&include_all_commits=false&count_private=false) <space>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iam-neo&theme=radical&hide_border=false)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-neo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br/>
-<div> 
-
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
+  
+  > *"The only limit to our realization of tomorrow will be our doubts of today."* <!-- dynamic_quote -->
+  
+</div>
 
+<br>
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iam-neo&theme=2077" height="180em" />
+<div align="center"> 
+  <img align="right" alt="Coding" width="300" src="https://lh3.googleusercontent.com/a/AAcHTtcwFXC80e6WPgrSkI0joojeY0QW3jECileBm78t0F5gNTw=s360-c-no">
 
+  <div align="left">
+    
+   **⚡ About Me**
+   
+   - 🔭 **I’m currently working on**: SEO & Web Development
+   - 🌱 **I’m currently learning**: SEO
+   - 👯 **Interests**: Explore, Experiment, and Implement
+   - 🎨 **Hobbies**: Coding, Writing, Music, Martial Arts
+   - 💬 **Pronouns**: He/Him/His
+   - 📫 **Contact**: [nirmalrokamagar54@gmail.com](mailto:nirmalrokamagar54@gmail.com)
 
+   <br>
+   
+   **📜 Favorite Poem**
+   
+   > *"O Captain! my Captain! our fearful trip is done..."* <!-- dynamic_poem -->
+  </div>
+</div>
 
-<h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=iam-neo&theme=default"/>
+<br clear="both">
+
+<h2 align="center">🚀 Tech Stack</h2>
+
+<div align="center">
+  
+  **Languages**<br>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+  <br>**Frontend**<br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+  <br>**Backend & Database**<br>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00599C?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <br>**Tools**<br>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+  
+</div>
+
+<br>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-neo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="iam-neo's github stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-neo&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="150" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-neo&theme=radical&hide_border=true" alt="Streak Stats" />
+</div>
+
+<br>
+
+<h2 align="center">⚡ Activity Graph</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-neo&theme=react" alt="Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iam-neo/iam-neo/output/snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+<br>
+
+<h2 align="center">📫 Connect with me</h2>
+
+<div align="center">
+  <a href="https://twitter.com/neo_imneo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/nirmal-mgr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/ni.nirmal" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@neogallery" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</div>
+
+<br>
+<hr>
+<p align="center">Visitor count<br>
+<img src="https://komarev.com/ghpvc/?username=iam-neo&label=Profile%20views&color=0e75b6&style=flat" alt="iam-neo" />
+</p>

@@ -27,8 +27,7 @@ index=$((day % 8))
 
 poem_index=$(( (day + 1) % 8 ))  # To get a different poem index from quotes
 
-readme=$(cat README.md)
-new_readme=$(echo "$readme" | awk -v new_quote="${quotes[$index]}" -v new_poem="${poems[$poem_index]}" '/quote:/ {$0="quote: "new_quote} /poem:/ {$0="poem: "new_poem} 1')
+new_readme=$(echo "$readme" | awk -v new_quote="${quotes[$index]}" -v new_poem="${poems[$poem_index]}" '/<!-- dynamic_quote -->/ {$0="> *\""new_quote"\"* <!-- dynamic_quote -->"} /<!-- dynamic_poem -->/ {$0="> *\""new_poem"\"* <!-- dynamic_poem -->"} 1')
 
 echo "$new_readme" > README.md
 
