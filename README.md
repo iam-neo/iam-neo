@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="./my_banner.png" alt="Banner" width="100%" />
-</div>
+</div> -->
 
 <h1 align="center">Hi there, I'm Nirmal! 👋</h1>
 
