@@ -79,9 +79,10 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-neo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="iam-neo's github stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-neo&show_icons=true&theme=radical&hide_border=true" alt="iam-neo's github stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-neo&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="150" />
 </div>
+
 <br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-neo&theme=radical&hide_border=true" alt="Streak Stats" />
