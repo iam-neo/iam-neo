@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  > *"The only limit to our realization of tomorrow will be our doubts of today."* <!-- dynamic_quote -->
+> *"Believe you can, and you're halfway there."* <!-- dynamic_quote -->
   
 </div>
 
@@ -34,7 +34,7 @@
    
    **📜 Favorite Poem**
    
-   > *"O Captain! my Captain! our fearful trip is done..."* <!-- dynamic_poem -->
+> *"I wandered lonely as a cloud That floats on high o'er vales and hills..."* <!-- dynamic_poem -->
   </div>
 </div>
 
