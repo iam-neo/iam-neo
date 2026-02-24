@@ -10,7 +10,7 @@
 
 <div align="center">
   
-> *"The only limit to our realization of tomorrow will be our doubts of today."* <!-- dynamic_quote -->
+> *"Be yourself; everyone else is already taken."* <!-- dynamic_quote -->
   
 </div>
 
@@ -34,7 +34,7 @@
    
    **📜 Favorite Poem**
    
-> *"O Captain! my Captain! our fearful trip is done..."* <!-- dynamic_poem -->
+> *"Do not go gentle into that good night, Old age should burn and rave at close of day; Rage, rage against the dying of the light."* <!-- dynamic_poem -->
   </div>
 </div>
 
