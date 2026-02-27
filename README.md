@@ -10,7 +10,7 @@
 
 <div align="center">
   
-> *"In the end, we will remember not the words of our enemies, but the silence of our friends."* <!-- dynamic_quote -->
+> *"Life is what happens when you're busy making other plans."* <!-- dynamic_quote -->
   
 </div>
 
@@ -34,7 +34,7 @@
    
    **📜 Favorite Poem**
    
-> *"How do I love thee? Let me count the ways..."* <!-- dynamic_poem -->
+> *"Hope is the thing with feathers That perches in the soul...Not marble nor the gilded monuments Of princes shall outlive this powerful rhyme..."* <!-- dynamic_poem -->
   </div>
 </div>
 
