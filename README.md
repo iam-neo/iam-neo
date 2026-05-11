@@ -10,7 +10,7 @@
 
 <div align="center">
   
-> *"Code is like humor. When you have to explain it, it’s bad."* <!-- dynamic_quote -->
+> *"The only limit to our realization of tomorrow will be our doubts of today."* <!-- dynamic_quote -->
   
 </div>
 
@@ -34,7 +34,7 @@
    
    **📜 Favorite Poem**
    
-> *"Two roads diverged in a wood, and I— I took the one less traveled by, And that has made all the difference."* <!-- dynamic_poem -->
+> *"O Captain! my Captain! our fearful trip is done..."* <!-- dynamic_poem -->
   </div>
 </div>
 
