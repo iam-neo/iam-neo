@@ -10,7 +10,7 @@
 
 <div align="center">
   
-> *"Be yourself; everyone else is already taken."* <!-- dynamic_quote -->
+> *"Believe you can, and you're halfway there."* <!-- dynamic_quote -->
   
 </div>
 
@@ -34,7 +34,7 @@
    
    **📜 Favorite Poem**
    
-> *"Do not go gentle into that good night, Old age should burn and rave at close of day; Rage, rage against the dying of the light."* <!-- dynamic_poem -->
+> *"I wandered lonely as a cloud That floats on high o'er vales and hills..."* <!-- dynamic_poem -->
   </div>
 </div>
 
