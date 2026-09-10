@@ -10,7 +10,7 @@
 
 <div align="center">
   
-> *"Believe you can, and you're halfway there."* <!-- dynamic_quote -->
+> *"In the end, we will remember not the words of our enemies, but the silence of our friends."* <!-- dynamic_quote -->
   
 </div>
 
@@ -34,7 +34,7 @@
    
    **📜 Favorite Poem**
    
-> *"I wandered lonely as a cloud That floats on high o'er vales and hills..."* <!-- dynamic_poem -->
+> *"How do I love thee? Let me count the ways..."* <!-- dynamic_poem -->
   </div>
 </div>
 
