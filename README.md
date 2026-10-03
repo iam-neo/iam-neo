@@ -10,7 +10,7 @@
 
 <div align="center">
   
-> *"Life is what happens when you're busy making other plans."* <!-- dynamic_quote -->
+> *"The journey of a thousand miles begins with a single step."* <!-- dynamic_quote -->
   
 </div>
 
@@ -34,7 +34,7 @@
    
    **📜 Favorite Poem**
    
-> *"Hope is the thing with feathers That perches in the soul...Not marble nor the gilded monuments Of princes shall outlive this powerful rhyme..."* <!-- dynamic_poem -->
+> *"Not marble nor the gilded monuments Of princes shall outlive this powerful rhyme..."* <!-- dynamic_poem -->
   </div>
 </div>
 
