@@ -10,7 +10,7 @@
 
 <div align="center">
   
-> *"The journey of a thousand miles begins with a single step."* <!-- dynamic_quote -->
+> *"Code is like humor. When you have to explain it, it’s bad."* <!-- dynamic_quote -->
   
 </div>
 
@@ -34,7 +34,7 @@
    
    **📜 Favorite Poem**
    
-> *"Not marble nor the gilded monuments Of princes shall outlive this powerful rhyme..."* <!-- dynamic_poem -->
+> *"Two roads diverged in a wood, and I— I took the one less traveled by, And that has made all the difference."* <!-- dynamic_poem -->
   </div>
 </div>
 
